@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dbe9e9fd7959d464a81efcc186d88a09, type: 3}
+  m_Name: TrashDatabase
+  m_EditorClassIdentifier: 
+  templates:
+  - {fileID: 7889516209401959, guid: 643cc928bb13a824cb7dc50d3b5b7be1, type: 3}
+  - {fileID: 8177763115177097066, guid: 5a9eb5bcd1271f246bcf57c80264e242, type: 3}
+  - {fileID: 8983024166540996167, guid: a48756cff9b998646b4c2b152290ff77, type: 3}
+  - {fileID: 4463674758342238512, guid: 3eb7edb140387ab4c997212e05edb606, type: 3}
+  - {fileID: 4852570624439243383, guid: cd70174a6bbfd3f47a2c34bc81483e3f, type: 3}

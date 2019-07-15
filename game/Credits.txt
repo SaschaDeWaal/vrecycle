@@ -1,0 +1,66 @@
+Sascha de Waal - Programmer, Design
+	Job:Created this game
+	Website:https://www.developersascha.nl/
+Gert-Jan van den boom - Artist
+	Job:Created the assembly line
+	Website:https://www.fluffstudios.nl/
+myluckyfeet - Music artist
+	Job:Created the sound kick-cardboard-box
+	Website:https://freesound.org/people/myluckyfeet/sounds/251648
+vsokorelos - Music artist
+	Job:Created the sound cardboard-box-drop
+	Website:https://freesound.org/people/vsokorelos/sounds/346169
+ryanlouis - Music artist
+	Job:Created the sound stepping-on-a-tin-can
+	Website:https://freesound.org/people/ryanlouis/sounds/366978
+ryanconway - Music artist
+	Job:Created the sound hitting-a-tin-can
+	Website:https://freesound.org/people/ryanconway/sounds/240800
+inspectorj - Music artist
+	Job:Created the sound impact-ice-moderate-b
+	Website:https://freesound.org/people/inspectorj/sounds/420881
+bubaproducer - Music artist
+	Job:Created the sound button-1
+	Website:https://freesound.org/people/bubaproducer/sounds/107127
+unfa - Music artist
+	Job:Created the sound glass-break
+	Website:https://freesound.org/people/unfa/sounds/221528
+qubodup - Music artist
+	Job:Created the sound swosh-sword-swing
+	Website:https://freesound.org/people/qubodup/sounds/59992
+plingativator - Music artist
+	Job:Created the sound glass-bottle
+	Website:https://freesound.org/people/plingativator/sounds/188904
+eelke - Music artist
+	Job:Created the sound falling-pet-bottle-05
+	Website:https://freesound.org/people/eelke/sounds/462606
+soundholder - Music artist
+	Job:Created the sound ambient-open-bunker-wind-blows-and-road-noises-stereo-ortf-8040
+	Website:https://freesound.org/people/soundholder/sounds/425367
+cmusounddesign - Music artist
+	Job:Created the sound glass-break-1
+	Website:https://freesound.org/people/cmusounddesign/sounds/84704
+ryntjie - Music artist
+	Job:Created the sound plastic-bottle-landing-on-floor
+	Website:https://freesound.org/people/ryntjie/sounds/365056
+guitarguy1985 - Music artist
+	Job:Created the sound buzzer
+	Website:https://freesound.org/people/guitarguy1985/sounds/54047
+millavsb - Music artist
+	Job:Created the sound refrigerator-motor
+	Website:https://freesound.org/people/millavsb/sounds/197874
+warcakestudios - Music artist
+	Job:Created the sound plastic-bottle-hit
+	Website:https://freesound.org/people/warcakestudios/sounds/173598
+dorian-mastin - Music artist
+	Job:Created the sound snd-impactheavymetal05
+	Website:https://freesound.org/people/dorian-mastin/sounds/381589
+distillerystudio - Music artist
+	Job:Created the sound error-04
+	Website:https://freesound.org/people/distillerystudio/sounds/327735
+sunnysidesound - Music artist
+	Job:Created the sound pop-7
+	Website:https://freesound.org/people/sunnysidesound/sounds/67093
+jrhodesza - Music artist
+	Job:Created the sound can-hit
+	Website:https://freesound.org/people/jrhodesza/sounds/367134

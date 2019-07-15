@@ -1,0 +1,132 @@
+Sascha de Waal - Programmer, Design
+	Responsible for: Created this game
+	Website: https://www.developersascha.nl/
+	License: Personal
+
+
+Gert-Jan van den boom - Artist
+	Responsible for: Created the assembly line
+	Website: https://www.fluffstudios.nl/
+	License: Personal
+
+
+myluckyfeet - Music artist
+	Responsible for: Created the sound kick-cardboard-box
+	Website: https://freesound.org/people/myluckyfeet/sounds/251648
+	License: Creative commons. See website for more information
+
+
+vsokorelos - Music artist
+	Responsible for: Created the sound cardboard-box-drop
+	Website: https://freesound.org/people/vsokorelos/sounds/346169
+	License: Creative commons. See website for more information
+
+
+ryanlouis - Music artist
+	Responsible for: Created the sound stepping-on-a-tin-can
+	Website: https://freesound.org/people/ryanlouis/sounds/366978
+	License: Creative commons. See website for more information
+
+
+ryanconway - Music artist
+	Responsible for: Created the sound hitting-a-tin-can
+	Website: https://freesound.org/people/ryanconway/sounds/240800
+	License: Creative commons. See website for more information
+
+
+inspectorj - Music artist
+	Responsible for: Created the sound impact-ice-moderate-b
+	Website: https://freesound.org/people/inspectorj/sounds/420881
+	License: Creative commons. See website for more information
+
+
+bubaproducer - Music artist
+	Responsible for: Created the sound button-1
+	Website: https://freesound.org/people/bubaproducer/sounds/107127
+	License: Creative commons. See website for more information
+
+
+unfa - Music artist
+	Responsible for: Created the sound glass-break
+	Website: https://freesound.org/people/unfa/sounds/221528
+	License: Creative commons. See website for more information
+
+
+qubodup - Music artist
+	Responsible for: Created the sound swosh-sword-swing
+	Website: https://freesound.org/people/qubodup/sounds/59992
+	License: Creative commons. See website for more information
+
+
+plingativator - Music artist
+	Responsible for: Created the sound glass-bottle
+	Website: https://freesound.org/people/plingativator/sounds/188904
+	License: Creative commons. See website for more information
+
+
+eelke - Music artist
+	Responsible for: Created the sound falling-pet-bottle-05
+	Website: https://freesound.org/people/eelke/sounds/462606
+	License: Creative commons. See website for more information
+
+
+soundholder - Music artist
+	Responsible for: Created the sound ambient-open-bunker-wind-blows-and-road-noises-stereo-ortf-8040
+	Website: https://freesound.org/people/soundholder/sounds/425367
+	License: Creative commons. See website for more information
+
+
+cmusounddesign - Music artist
+	Responsible for: Created the sound glass-break-1
+	Website: https://freesound.org/people/cmusounddesign/sounds/84704
+	License: Creative commons. See website for more information
+
+
+ryntjie - Music artist
+	Responsible for: Created the sound plastic-bottle-landing-on-floor
+	Website: https://freesound.org/people/ryntjie/sounds/365056
+	License: Creative commons. See website for more information
+
+
+guitarguy1985 - Music artist
+	Responsible for: Created the sound buzzer
+	Website: https://freesound.org/people/guitarguy1985/sounds/54047
+	License: Creative commons. See website for more information
+
+
+millavsb - Music artist
+	Responsible for: Created the sound refrigerator-motor
+	Website: https://freesound.org/people/millavsb/sounds/197874
+	License: Creative commons. See website for more information
+
+
+warcakestudios - Music artist
+	Responsible for: Created the sound plastic-bottle-hit
+	Website: https://freesound.org/people/warcakestudios/sounds/173598
+	License: Creative commons. See website for more information
+
+
+dorian-mastin - Music artist
+	Responsible for: Created the sound snd-impactheavymetal05
+	Website: https://freesound.org/people/dorian-mastin/sounds/381589
+	License: Creative commons. See website for more information
+
+
+distillerystudio - Music artist
+	Responsible for: Created the sound error-04
+	Website: https://freesound.org/people/distillerystudio/sounds/327735
+	License: Creative commons. See website for more information
+
+
+sunnysidesound - Music artist
+	Responsible for: Created the sound pop-7
+	Website: https://freesound.org/people/sunnysidesound/sounds/67093
+	License: Creative commons. See website for more information
+
+
+jrhodesza - Music artist
+	Responsible for: Created the sound can-hit
+	Website: https://freesound.org/people/jrhodesza/sounds/367134
+	License: Creative commons. See website for more information
+
+
